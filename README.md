@@ -25,8 +25,9 @@ Expected Result:
 - I am able to filter and print "has no Languages available" if there are no languages used.
 
 # Running & Testing
- 
-To run the test select the file GetLanguages.feature BDD and run it.
+
+- Checkout to [mvf-test-scenarios](https://github.com/Kamel-Adjal/dev/tree/mvf-test-scenarios) branch. 
+- To run the test select the file *GetLanguages.feature* BDD and run it.
 
 # Test result
 
